@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-fei-pmforward",
+  "description": "转发bot接收的私聊消息到指定平台的指定账号",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "4.17.8"
+  }
+}
